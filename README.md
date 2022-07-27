@@ -24,6 +24,8 @@ Please install Julia as explained at  https://computationalthinking.mit.edu/Spri
 
 
 ## Literature
+- Julia for Python people https://colab.research.google.com/drive/1G04w8tTl074180DP_Ka9X44r_pndUYxq?usp=sharing
+
 - https://julialang.org/learning/
 
 - Julia for Machine Learning, Zacharias Voulgaris, https://technicspub.com/julia/
