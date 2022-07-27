@@ -644,7 +644,7 @@ This tells us that the mean is about $0.09$. This can be a very useful way to su
 """
 
 # ╔═╡ f14dfca1-5753-4685-9ce0-3df7f0c7fe92
-mean(0.01 .< posterior_predictive_samples .< 0.18)
+mean(0.011 .< posterior_predictive_samples .< 0.19)
 
 # ╔═╡ 842b3cbc-8705-42e2-8612-fe173f798b2f
 md"""
