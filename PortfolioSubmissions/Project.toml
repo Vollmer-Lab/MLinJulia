@@ -1,0 +1,11 @@
+name = "PortfolioSubmission"
+uuid = "66310e19-2854-44e3-abd0-1b087a382402"
+authors = ["TUKL"]
+version = "0.1.0"
+
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+[targets]
+test = ["Test"]
+
